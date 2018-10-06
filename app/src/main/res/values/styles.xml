@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="myTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="bg">
+        <item name="android:background">#0d47a1</item>
+    </style>
+
+    <style name="textColor">
+        <item name="android:textColor">#ff000000</item>
+    </style>
+
+    <style name="btext">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#d5e5d7</item>
+    </style>
+    <style name="bg2">
+        <item name="android:background">#808080</item>
+    </style>
+</resources>
